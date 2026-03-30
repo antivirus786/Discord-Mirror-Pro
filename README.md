@@ -14,16 +14,15 @@ Professional Python utility for server structure migration and backups.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/antivirus786/Discord-Mirror-Pro.git
-   cd Discord-Mirror-Pro```
+   cd Discord-Mirror-Pro
 
 2. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 3. **Run the Application:**
    ```bash
-   python main.py```
-
+   python main.py
 
 ## ✅ Usage
 Upon execution, the script will prompt you for:
